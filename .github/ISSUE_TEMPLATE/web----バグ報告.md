@@ -1,7 +1,7 @@
 ---
 name: 'WEB: ○○バグ報告'
 about: "○○バグについての題名"
-title: "[Bug]"
+title: "[Bug] ○○ バグ"
 labels: Project:Web-Tao, Type:Bug
 assignees: AnijaaaPan
 
@@ -28,9 +28,9 @@ https://github.com/Tsukishima-Art-Online-Project/Issues/labels/Priority%3ALow
 > ※本来想定されている動作について明確かつ簡潔に記述すること
 
 - **スクリーンショット、動画:**
-> ※スクリーンショットや動画がある場合はここにアップロードしてください
+> ※スクリーンショットや動画がある場合は、ここにアップロードしてください
 
-- **その他の状況**
+- **その他**
 > その他、問題についての状況をご記入ください
 
 **※WEBのバグの場合は下記も記入してください**
