@@ -1,18 +1,11 @@
 ---
-name: "○○バグ報告"
+name: 'BOT: ○○バグ報告'
 about: "○○バグについての題名"
 title: "[Bug]"
-labels: Type:Bug
+labels: Project:Bot-Tao, Type:Bug
 assignees: AnijaaaPan
 
 ---
-
-## どのプロジェクトに関するバグなのかラベルを選択してください
-
-https://github.com/Tsukishima-Art-Online-Project/Issues/labels/Project%3ABot-Tao
-https://github.com/Tsukishima-Art-Online-Project/Issues/labels/Project%3ABot-Support-Tao
-https://github.com/Tsukishima-Art-Online-Project/Issues/labels/Project%3AWeb-Tao
-https://github.com/Tsukishima-Art-Online-Project/Issues/labels/Project%3AAPI
 
 ## どれくらいの対応速度を希望しているのかラベルを選択してください
 
