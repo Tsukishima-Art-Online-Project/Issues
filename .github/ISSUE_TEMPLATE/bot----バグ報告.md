@@ -4,7 +4,7 @@ name: 'BOT: ○○バグ報告'
 about: "○○バグについての題名"
 title: "[Bug] ○○ バグ"
 labels: Project:Bot-Tao, Type:Bug
-projects: Bot
+projects: 1
 type: Bug
 assignees: AnijaaaPan
 
